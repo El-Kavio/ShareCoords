@@ -1,6 +1,6 @@
 # ShareCoords
 
-![ShareCoords banner](https://github.com/El-Kavio/ShareCoords/assets/140896938/b2163bd8-5582-4d4d-84bf-14115119ddf8)
+![ShareCoords banner](https://github.com/El-Kavio/ShareCoords/assets/140896938/fa01d2f5-6da0-4653-9fdc-27e21e0157b9)
 
 **ShareCoords** is a **datapack** that **allows** you to **send** your **coordinates** in **chat!** (with additional **features**)
 
